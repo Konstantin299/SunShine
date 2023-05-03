@@ -1,1 +1,2 @@
 create windows form
+Added inputs

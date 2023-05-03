@@ -1,1 +1,2 @@
 add calculation
+Added sales table 
